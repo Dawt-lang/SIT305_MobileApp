@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">converter</string>
+    <string name="answer"></string>
+    <string name="title">Temperature Conversion</string>
+    <string name="btn_title">CONVERT!</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="enter_a_number2">Enter a number</string>
+    <string name="to">TO</string>
+</resources>
